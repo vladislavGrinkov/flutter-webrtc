@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "500869155129",
+    "firebase_url": "https://fir-rtc-e6b35-default-rtdb.firebaseio.com",
+    "project_id": "fir-rtc-e6b35",
+    "storage_bucket": "fir-rtc-e6b35.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:500869155129:android:1cfbf90062773a06d8c0e8",
+        "android_client_info": {
+          "package_name": "com.example.videochat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGmXZso3d2Wntm1nBOwaUSCRDH7NkAMWU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
