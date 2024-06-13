@@ -31,9 +31,11 @@ migrate_working_dir/
 .firebaserc
 .packages
 .pub-cache/
+.build
 .pub/
 /build/
-
+/.firebase/
+/firebaserc/
 
 # Symbolication related
 app.*.symbols
